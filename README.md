@@ -1,3 +1,4 @@
 # Excel-Kickstarter-Projects-Analysis
-        Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success.For this Analysis, I've organized and analyzed a database of four thousand past projects in order to uncover any hidden trends.
-Used Conditional formatting, Vlookups, pivot tables, pivot charts and line charts for the analysis.
+Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success.For this Analysis, I've organized and analyzed a database of four thousand past projects in order to uncover any hidden trends.
+
+  -Used Conditional formatting, Vlookups, pivot tables, pivot charts and line charts for the analysis.
