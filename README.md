@@ -1,6 +1,6 @@
 # Excel-Kickstarter-Projects-Analysis
 
-# Objective
+## Objective
 Modifying and analyzing the data of four thousand past Kickstarter projects as an attempt to uncover some of the market trends.
 
 ## Background
