@@ -1,7 +1,8 @@
 # Excel-Kickstarter-Projects-Analysis
 
-## Objective
-Modifying and analyzing the data of four thousand past Kickstarter projects as an attempt to uncover some of the market trends.
+## ABSTRACT
+
+Kickstarter is one of the most popular crowdfunding platform on the internet. The aim of this project is to predict the success or failure of a Kickstarter campaign at launch time.
 
 ## Background
 Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome. Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. For this Analysis, I've organized and analyzed a database of four thousand past projects in order to uncover any hidden trends.
@@ -14,7 +15,7 @@ Of the over 300,000 projects launched on Kickstarter, only a third have made it 
 * Line charts 
 * Calculated Columns
 
-
+### Exploratory Data Analysis (EDA)
 ![Dashboard](images/conditional_formatting.PNG)
 
 #### The conclusions we can make about Kickstarter campaigns, given the provided data are:
